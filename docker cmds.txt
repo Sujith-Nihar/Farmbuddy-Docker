@@ -1,0 +1,2 @@
+docker pull sujith3/krisan
+docker run -p 5000:5000 sujith/krisan
